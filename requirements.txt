@@ -13,7 +13,7 @@ django-hstore==1.4.2
 importlib-metadata==1.7.0
 kombu==3.0.37
 prompt-toolkit==3.0.6
-psycopg2 @ file:///opt/concourse/worker/volumes/live/f70b797f-1fea-4855-7694-330b8c27138c/volume/psycopg2_1594305349650/work
+psycopg2==2.8.5
 pytz==2020.1
 six==1.15.0
 sqlparse==0.3.1
