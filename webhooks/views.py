@@ -5,4 +5,4 @@ from django.views.decorators.csrf import csrf_exempt
 @csrf_exempt 
 @require_POST
 def example(request):
-	return HttpResponse('Hello, world. This is the webhook response.')
+	return HttpResponse('Hello, world. This is the wejfkldsajfldskjbhook response.')
